@@ -7,7 +7,7 @@ import time
 # CONFIGURAÇÕES
 # =========================
 
-MODEL_PATH = "modelo_garrafas.keras"
+MODEL_PATH = "template/modelo_garrafas.keras"
 
 CLASSES = [
     "amassada",
